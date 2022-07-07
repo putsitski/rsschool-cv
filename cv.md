@@ -10,6 +10,7 @@ I want to become a software engineer, so I learn how to use Git...
 ### Work experience:
 **Assistant Sales Manager**
 Feb 2022 - Present
+
 Innowise Group
 
 ### Languages:
