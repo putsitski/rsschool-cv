@@ -15,7 +15,7 @@ function multiply(a, b){
 ```
 
 ### Work experience:
-**Assistant Sales Manager** at Innowise Group
+**Assistant Sales Manager** at Innowise Group Feb 2022 - Present
 
 ### Languages:
 * **English -** B2
