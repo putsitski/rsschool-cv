@@ -7,11 +7,15 @@
 ### About:
 I want to become a software engineer, so I learn how to use Git...
 
-### Work experience:
-**Assistant Sales Manager**
-Feb 2022 - Present
+### Code example:
+```
+function multiply(a, b){
+  return a * b;
+}
+```
 
-Innowise Group
+### Work experience:
+**Assistant Sales Manager** at Innowise Group
 
 ### Languages:
 * **English -** B2
