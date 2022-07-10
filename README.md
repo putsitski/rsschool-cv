@@ -1,1 +1,1 @@
-# rsschool-cv
+https://putsitski.github.io/rsschool-cv/
